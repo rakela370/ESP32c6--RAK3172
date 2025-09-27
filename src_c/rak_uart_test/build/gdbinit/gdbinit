@@ -1,0 +1,2 @@
+source /home/nikola/Desktop/rak_uart_test/build/gdbinit/symbols
+source /home/nikola/Desktop/rak_uart_test/build/gdbinit/connect
